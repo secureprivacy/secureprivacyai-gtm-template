@@ -42,7 +42,7 @@ ___VENDOR_DETAILS___
   "termsAndConditionsUrl": "https://secureprivacy.ai/terms-of-service",
   "freeTrial": "30-day free trial",
   "freeTier": "Yes",
-  "price": "<b>Premium plans starting at $14 per month</b><br> Small Web Plan <br><br> <ul><li>$14 per month per domain</li><li>Custom Logo</li><li>Custom Banner Designs</li><li>5K consents per month</li></ul>",
+  "price": "<b>Premium plans starting at $15 per month</b><br> Small Web Plan <br><br> <ul><li>$15 per month per domain</li><li>Custom Logo</li><li>Custom Banner Designs</li><li>5K consents per month</li></ul>",
   "countries": "No limitations",
   "languages": [
     "af",
@@ -101,7 +101,7 @@ ___VENDOR_DETAILS___
     "IOS",
     "ANDROID"
   ],
-  "defaultSettingsUrl": "https://support.secureprivacy.ai/articles/235297-implementation-google-consent-mode-using-google-tag-manager-template"
+  "defaultSettingsUrl": "https://support.secureprivacy.ai/article/implementing-google-consent-mode-advanced-using-google-tag-manager-community-template/"
 }
 
 
